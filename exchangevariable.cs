@@ -1,4 +1,3 @@
-[3:44 PM, 7/13/2020] Venkat Sai: 
 using System;
 
 namespace exchangevar
